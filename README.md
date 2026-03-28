@@ -15,3 +15,4 @@ Aplicação de lógica em diferentes linguagens como C, C++, Python, C# e Java.
 
 - Os exercícios seguem o curso da Udemy e servem **apenas para prática e fixação**.
 - Não são projetos finais, mas representam a **consolidação da base de lógica de programação**.
+- Os exercícios iniciam na seção 3 do curso.
